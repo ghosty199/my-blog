@@ -1,0 +1,37 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.movie_head{
+    width: 100%;
+    border-radius:10px;
+padding:10px;
+font-size: 20px;
+}
+i{
+    float:right;
+
+}
+.movie_text span{
+color: rgb(63, 63, 63);
+}
+.book img{
+width: 500px;
+height:350px;
+}
+.book{
+    cursor: pointer;
+}
